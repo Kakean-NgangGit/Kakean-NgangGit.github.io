@@ -1,0 +1,93 @@
+/* For the Logo */
+.logo {
+    width: 65px;
+    height: 50px;
+}
+/* ============= */
+
+
+
+/* For the Logo title */
+.judul-logoo {
+    font-size: 22px;
+    font-style: bold;
+    letter-spacing: 0.7px;
+    line-height: 20px;
+    font-family: 'Times New Roman';
+    margin-left: 10px;
+}
+
+.judul-logoo h3 {
+    margin: 0px;
+}
+
+.judul-logoo b {
+    font-size: 20px;
+}
+
+.judul-logoo p {
+    font-size: 17px;
+    margin: 0px;
+}
+/* ==================== */
+
+
+
+/* For the Searchbar */
+.search {
+    margin-left: 217px;
+    margin-right: 277px;
+}
+
+.searchbar {
+    width: 350px;
+    height: 26px;
+}
+
+.searchButton {
+    height: 32px;
+}
+/* =================== */
+
+
+
+/* For the Log in - Sign up link */
+.createAcc {
+    color: blue;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.login {
+    color: blue;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.createAcc:hover {
+    text-decoration: underline;
+}
+
+.login:hover {
+    text-decoration: underline;
+}
+/* ============================== */
+
+
+
+/* For the navigation of Internal Link */
+.navBar {
+    display: flex;
+    justify-content: center;
+    column-gap: 9px;
+}
+
+.navBar a{
+    text-decoration: none;
+    color: blue;
+}
+
+.navBar a:hover {
+        text-decoration: underline;
+}
+/* ==================================== */

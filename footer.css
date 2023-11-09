@@ -1,0 +1,22 @@
+.footer {
+    margin: auto;
+    height: auto;
+    width: 1423px;
+    background-color: white;
+}
+
+.EndArticleContent {
+    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: 'Times New Roman';
+}
+
+.ig {
+    text-decoration: none;
+    color: black;
+}
+
+.ig:hover {
+    text-decoration: underline;
+}

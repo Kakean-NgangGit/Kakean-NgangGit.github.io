@@ -1,0 +1,132 @@
+/* For the entire <p> elements on article body */
+.articleBody p {
+    font-size: 20px;
+    line-height: 50px;
+}
+/* ========================================= */
+
+
+/* For the entire article body style */
+.articleBody {
+    padding: 50px;
+}
+/* ================================= */
+
+
+
+/* For the title of the article body */
+.taitel {
+    font-size: 28px;
+    line-height: 55px;
+    margin: 25px;
+}
+
+.taitel b {
+    font-size: 38px;
+}
+/* ================================== */
+
+
+
+/* For every picture on the article body */
+.tankKodok {
+    height: 366px;
+    width: 600px;
+}
+
+.londo {
+    height: 600px;
+    width: 412.5px;
+}
+
+.PETA {
+    height: 382.5px;
+    width: 600px;
+}
+
+.Pemuda {
+    height: 436.5px;
+    width: 600px;
+}
+
+.TKR {
+    height: 427.5px;
+    width: 598.5px;
+}
+
+.AWS {
+    height: 439.5px;
+    width: 595.5px;
+}
+
+.AWSmati {
+    height: 597px;
+    width: 600px;
+}
+
+.BoS {
+    height: 600px;
+    width: 597px;
+}
+
+.BoS2 {
+    height: 594px;
+    width: 600px;
+}
+
+.BoS3 {
+    height: 600px;
+    width: 600px;
+}
+
+.TL {
+    height: 366px;
+    width: 600;
+}
+
+.BoS4 {
+    height: 600px;
+    width: 582px;
+}
+
+.BoS5 {
+    height: 600px;
+    width: 574.5px;
+}
+
+.uc {
+    height: 264px;
+    width: 600px;
+}
+
+.somok {
+    height: 282px;
+    width: 600px;
+}
+
+.kokusan {
+    height: 360px;
+    width: 576px;
+}
+/* ======================================= */
+
+
+
+/* For every <p> elements in the unordered list */
+li p {
+    margin: 0px;
+}
+/* ============================================ */
+
+
+
+/* For the bottom Tag looks */
+.tags {
+    text-decoration: none;
+    color: black;
+}
+
+.tags:hover {
+    text-decoration: underline;
+}
+/* ===== */

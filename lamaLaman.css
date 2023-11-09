@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    background-image:url(Tacticality.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.body {
+    margin: auto;
+    height: auto;
+    width: 1423px;
+    background-color: white;
+}
+
+.MainArticleContent {
+    padding: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: Arial;
+}
